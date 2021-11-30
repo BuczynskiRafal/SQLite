@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS "esmartdata_course"
 , "subtitle" text NOT NULL 
 , "description" text NOT NULL 
 , "category" text NOT NULL 
+, "subcategory" text NOT NULL 
 , "language" text NOT NULL 
 , "length" text NOT NULL 
 , "rating" real NOT NULL 
